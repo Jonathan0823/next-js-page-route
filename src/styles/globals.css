@@ -40,3 +40,14 @@ a {
     color-scheme: dark;
   }
 }
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px 5%;
+  background: var(--background);
+  color: black;
+  background-color: white;
+  font-size: 2rem;
+}
